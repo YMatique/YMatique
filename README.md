@@ -35,10 +35,23 @@ With a strong focus on the Laravel ecosystem, I specialize in creating seamless 
 ---
 
 ## 📈 Featured Projects
+### 🇲🇿 [Dindau](https://github.com/YMatique/dindau) (Ndau Dictionary)
+**Stack:** Laravel, Livewire, Tailwind CSS
+- A high-performance digital dictionary for the Ndau language.
+- **Key Feature:** Real-time search and filtering using Livewire's reactive components to preserve and promote local linguistic heritage.
 
+### 💰 [Perfic-Web](https://github.com/YMatique/perfic-web) (Personal Finance Control)
+**Stack:** Laravel, Livewire, Alpine.js, MySQL
+- A robust web application for personal financial management.
+- **Key Feature:** Interactive dashboards for expense tracking, budget planning, and financial health analytics with a focus on UX/UI.
+
+### 📚 [YAMDL](https://github.com/YMatique/yam-dl-blog) (Digital Library)
+**Stack:** Laravel, Inertia.js, Tailwind CSS
+- A digital content platform (Digital Library) focused on Christian content distribution.
+- **Key Feature:** Optimized for content delivery and readability, featuring a clean and minimalist design.
 
 ---
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvimatique)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_LINK_DO_WHATSAPP)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Breefly)
