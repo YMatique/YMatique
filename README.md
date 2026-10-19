@@ -1,57 +1,114 @@
+<div align="center">
+
 # Hi, I'm Yuvi Matique 👋
 
-### Fullstack Developer | Laravel & React Specialist
-Available for remote opportunities and high-impact projects.
+### Software Engineer · Full-Stack Developer
+
+**I build practical, maintainable software for real-world business problems.**
+
+Based in **Beira, Mozambique** 🇲🇿 · Open to remote opportunities and collaborations
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yuvimatique.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvimatique)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvimatique@gmail.com)
+
+</div>
 
 ---
 
-##  About Me
-I am a **Fullstack Developer** passionate about building innovative technological solutions. My mission is to transform complex ideas into practical, high-impact digital products. 
+## 👨🏽‍💻 About Me
 
-With a strong focus on the Laravel ecosystem, I specialize in creating seamless user experiences using modern stacks like **RILT** (React/Inertia/Laravel/Tailwind) and **TALL** (Tailwind/Alpine/Laravel/Livewire).
+I'm a **Computer Engineering graduate and full-stack developer** with experience building business management systems, ERP applications, and web platforms.
 
-- 📍 Based in Beira, Mozambique (Available for Remote Work)
-- 💼 Currently focusing on Scalable SaaS solutions and API architectures.
-- ⚡ Fun fact: I build reactive interfaces that feel like SPAs but stay secure within the Laravel monolith.
+I work primarily with **PHP, Laravel, React, Inertia.js, and TypeScript**, combining backend business logic with responsive, intuitive interfaces. My interests include **SaaS products, multi-company architectures, relational database design, and API integrations**.
+
+My goal is to turn complex requirements into reliable software that makes people's work easier.
+
+## 🚀 What I Build
+
+- **Business applications & ERP systems** — inventory, billing, sales, operational workflows, and reporting.
+- **SaaS & multi-company platforms** — company-level data isolation, access control, and modular functionality.
+- **Full-stack web applications** — Laravel-powered backends with React/Inertia.js or Livewire interfaces.
+- **APIs & integrations** — structured application endpoints and connections between systems.
+- **Production-ready workflows** — testing, code quality, database migrations, and Linux/Nginx deployments.
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Backend** | PHP · Laravel · REST APIs · Eloquent ORM |
+| **Frontend** | React · TypeScript · JavaScript · Inertia.js · Livewire · Alpine.js · Tailwind CSS |
+| **Databases** | MySQL · PostgreSQL · SQLite |
+| **Tools & Infrastructure** | Git · GitHub · Postman · Linux · Nginx · Composer · npm |
+| **Quality** | Automated testing · Pest/PHPUnit · Laravel Pint · PHPStan |
+
+I also use **generative AI tools** to support software development, technical research, problem-solving, documentation, and productivity — with human review and validation.
+
+## 📌 Featured Projects
+
+### 🏢 [Kutenga ERP](https://github.com/YMatique/kutenga-erp-v2) — Business Management Platform
+
+**Stack:** Laravel · React · Inertia.js · TypeScript · Tailwind CSS
+
+A multi-company ERP platform designed to centralize everyday business operations.
+
+**Highlights:**
+- Product and service catalogues, inventory, billing, and point of sale (POS).
+- Company-level data isolation and role-based permissions.
+- Operational dashboards, documents, and business workflows.
+
+**[Explore the repository →](https://github.com/YMatique/kutenga-erp-v2)**
+
+### 🔧 Gejerera — Workshop Management System
+
+**Stack:** Laravel · React · Inertia.js · Relational Database
+
+A workshop management solution focused on organizing vehicle service operations and keeping their records consistent.
+
+**Highlights:**
+- Customer and vehicle management.
+- Vehicle reception, inspections, and service intake tracking.
+- Structured diagnoses and findings, with domain validations and automated tests.
+
+*Independent project · Source code not publicly linked.*
+
+### 💰 [Perfic](https://github.com/YMatique/perfic-web) — Personal Finance Control
+
+**Stack:** Laravel · Livewire · Tailwind CSS
+
+A personal finance web application focused on helping users organize financial information and better understand their spending.
+
+**Highlights:**
+- Financial records and expense organization.
+- A foundation for personal budgeting and financial visibility.
+- Reactive, user-friendly web interfaces.
+
+**[Explore the repository →](https://github.com/YMatique/perfic-web)**
+
+### 🌍 Other Work
+
+- **Dindau:** A digital dictionary initiative focused on preserving and promoting the Ndau language.
+- **YAM Digital Library:** A digital content and reading platform.
+
+Discover more about my work at **[yuvimatique.com](https://yuvimatique.com)**.
+
+## 🧭 How I Work
+
+I value clear requirements, thoughtful data modeling, maintainable code, and practical testing. I enjoy working across the development lifecycle — from understanding a business process to building, validating, and deploying the solution.
+
+## 📫 Let's Connect
+
+I'm open to **remote software development roles, freelance projects, and technical collaborations**.
+
+- 🌐 **Portfolio:** [yuvimatique.com](https://yuvimatique.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yuvimatique](https://www.linkedin.com/in/yuvimatique)
+- ✉️ **Email:** [yuvimatique@gmail.com](mailto:yuvimatique@gmail.com)
+- 💬 **WhatsApp:** [Send a message](https://wa.me/258847829449)
 
 ---
 
-## 🛠️ My Toolbox
+<div align="center">
 
-### Backend
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+*Building software that solves real problems.*
 
-### Frontend & Reactive Stacks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-**[ Inertia.js | Livewire | Alpine.js ]**
-
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📈 Featured Projects
-### 🇲🇿 [Dindau](https://github.com/YMatique/dindau) (Ndau Dictionary)
-**Stack:** Laravel, Livewire, Tailwind CSS
-- A high-performance digital dictionary for the Ndau language.
-- **Key Feature:** Real-time search and filtering using Livewire's reactive components to preserve and promote local linguistic heritage.
-
-### 💰 [Perfic-Web](https://github.com/YMatique/perfic-web) (Personal Finance Control)
-**Stack:** Laravel, Livewire, Alpine.js, MySQL
-- A robust web application for personal financial management.
-- **Key Feature:** Interactive dashboards for expense tracking, budget planning, and financial health analytics with a focus on UX/UI.
-
-### 📚 [YAMDL](https://github.com/YMatique/yam-dl-blog) (Digital Library)
-**Stack:** Laravel, Inertia.js, Tailwind CSS
-- A digital content platform (Digital Library) focused on Christian content distribution.
-- **Key Feature:** Optimized for content delivery and readability, featuring a clean and minimalist design.
-
----
-
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvimatique)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Breefly)
+</div>
